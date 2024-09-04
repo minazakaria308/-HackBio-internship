@@ -5,7 +5,7 @@
 We have two BRCA genes, one inherited from the father and the other from the mother. When a mutation occurs in these genes, it can increase the risk of cancer. For example, out of 10 women, more than 6 who have a harmful mutation in BRCA1 or BRCA2 will develop breast cancer. Additionally, a mutation in BRCA1 or BRCA2 increases the risk of developing cancer in the opposite breast.[2]
 
 ## BRCA Genetic Testing
-BRCA genetic testing is a blood test that uses DNA analysis to identify mutations in one of the breast cancer genes – BRCA1 and BRCA2. A positive result means that you carry a genetic mutation that increases your risk of cancer, and you can work with your doctor to manage this risk. A negative result may indicate that you do not carry the mutation."[2]
+BRCA genetic testing is a blood test that uses DNA analysis to identify mutations in one of the breast cancer genes – BRCA1 and BRCA2. A positive result means that you carry a genetic mutation that increases your risk of cancer, and you can work with your doctor to manage this risk. A negative result may indicate that you do not carry the mutation."[3]
 
 
 ## Recources
@@ -13,6 +13,8 @@ BRCA genetic testing is a blood test that uses DNA analysis to identify mutation
 1. https://prevention.cancer.gov/about-dcp/history-and-timeline/commemoration-50th/mary-claire-king#:~:text=Discovering%20the%20Hereditary%20Breast%20Cancer%20Gene&text=Long%20before%20scientists%20completed%20mapping,hereditary%20form%20of%20breast%20cancer.
 
 2.https://www.cancer.gov/about-cancer/causes-prevention/genetics/brca-fact-sheet
+
+3.Varol U, Kucukzeybek Y, Alacacioglu A, Somali I, Altun Z, Aktas S, Oktay Tarhan M. BRCA genes: BRCA 1 and BRCA 2. J BUON. 2018 Jul-Aug;23(4):862-866. PMID: 30358186.
 
 ## Author
 Mina Zakaria
